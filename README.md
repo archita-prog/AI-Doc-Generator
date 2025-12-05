@@ -35,5 +35,12 @@ python app.py
 git remote add origin https://huggingface.co/spaces/<username>/ai-doc
 git push origin main
 
+UI:
+<img width="1855" height="732" alt="image" src="https://github.com/user-attachments/assets/322a2b2d-12c5-466d-be34-0be290aff741" />
+Sample Input:
+<img width="939" height="780" alt="image" src="https://github.com/user-attachments/assets/2943a747-b1e1-4645-bdff-8553168c766b" />
+Sample Ouptut:
+<img width="908" height="625" alt="image" src="https://github.com/user-attachments/assets/236b78e9-8fb8-4b5c-b9c5-0532e30a40ae" />
+
 
 
